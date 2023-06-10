@@ -1,0 +1,22 @@
+.social-media-icon {
+    height: 30px;
+    width: 30px;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+.flex {
+    display: flex;
+    justify-content: space-between;
+    width: 300px;
+    border: 1px solid black;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 2px;
+}
+
+.email {
+    width: 300px;
+    margin: auto;
+    text-align: center;
+}
