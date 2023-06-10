@@ -10,9 +10,13 @@
 
 .headshot {
     width: 600px;
-    position: absolute;
 }
 
 p {
     font-size: 20px;
 }
+ .bio-box {
+    width: fit-content;
+    margin: auto;
+    display: flex;
+ }
