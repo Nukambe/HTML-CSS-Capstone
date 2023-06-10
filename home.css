@@ -1,0 +1,33 @@
+h1 {
+    text-align: center;
+    font: italic 3em "Fira Sans", serif;
+    border-bottom: solid black 1px;
+    width: 500px;
+    margin: auto;
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-around;
+    width: 777px;
+    margin: auto;
+}
+
+.info-box {
+    display: inline-block;
+    width: 500px;
+}
+
+.social-media-icon {
+    height: 30px;
+    width: 30px;
+}
+
+.headshot {
+    width: 600px;
+    position: absolute;
+}
+
+p {
+    font-size: 20px;
+}
