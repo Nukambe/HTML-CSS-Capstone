@@ -15,8 +15,16 @@
 p {
     font-size: 20px;
 }
- .bio-box {
+
+.bio-box {
     width: fit-content;
     margin: auto;
     display: flex;
- }
+}
+
+a:link,
+a:visited,
+a:hover,
+a:active {
+    text-decoration: none;
+}

@@ -12,3 +12,11 @@ h1 {
     width: 777px;
     margin: auto;
 }
+
+.navbar a:link,
+.navbar :visited,
+.navbar a:hover,
+.navbar a:active {
+    color: black;
+    text-decoration: none;
+}
