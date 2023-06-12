@@ -2,3 +2,11 @@
     width: 700px;
     margin: auto;
 }
+
+h3 {
+    font-size: 30px;
+    border-bottom: solid black 1px;
+    width: 750px;
+    margin: auto;
+    margin-bottom: 5px;
+}
