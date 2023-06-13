@@ -1,3 +1,7 @@
+body {
+    background-color: #F7DBA7;
+}
+
 h1 {
     text-align: center;
     font: italic 3em "Fira Sans", serif;
@@ -11,12 +15,35 @@ h1 {
     justify-content: space-around;
     width: 777px;
     margin: auto;
+    margin-top: 5px;
 }
 
 .navbar a:link,
-.navbar :visited,
+.navbar a:visited,
 .navbar a:hover,
 .navbar a:active {
     color: black;
     text-decoration: none;
+}
+
+.navbar div {
+    width: 100px;
+    height: 50px;
+    text-align: center;
+    vertical-align: middle;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-color: red;
+}
+
+.navbar div:hover {
+    background-color: #767522;
+    border: red;
+}
+
+.selectedPage {
+    background-color: #767522;
+    border-color: #C57B57;
+    border-radius: 4px;
 }
