@@ -8,16 +8,12 @@
     width: 30px;
 }
 
-.headshot {
-    width: 600px;
-}
-
 p {
     font-size: 20px;
 }
 
 .bio-box {
-    width: fit-content;
+    width: 900px;
     margin: auto;
     display: flex;
 }
