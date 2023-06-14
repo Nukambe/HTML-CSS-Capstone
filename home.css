@@ -15,8 +15,10 @@ p {
 
 .bio-box {
     width: 1000px;
+    height: 560px;
     margin: auto;
     display: flex;
+    overflow: hidden;
 }
 
 a:link,
